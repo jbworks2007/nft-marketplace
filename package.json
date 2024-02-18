@@ -14,7 +14,7 @@
     "fs-react": "^0.0.4",
     "ipfs-http-client": "^58.0.1",
     "moralis": "^2.5.7",
-    "node-sass": "^7.0.1",
+    "node-sass": "^8.0.0",
     "react": "^17.0.2",
     "react-bootstrap": "^2.1.0",
     "react-bootstrap-accordion": "^1.0.0",
